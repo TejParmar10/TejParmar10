@@ -4,11 +4,12 @@
 <a href="mailto:<tejparmar100@gmail.com>"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejparmar100@gmail.com" alt="Gmail"></a>
 ## I'm an App Developer and Machine Learning Enthusiast
 
-- 🔭 I’m currently working on some project
-- 🌱 I’m currently learning flutter and trying few mini projects 
-- 👯 I’m looking to collaborate on some idea
-- 🤔 I’m looking for help with some problem
-- 💬 Ask me about anything here
+👋 Hi, I'm an engineering student who loves to code and learn new things. 🚀
+🌱 I'm currently learning Flutter, a cross-platform framework for building beautiful apps. 📱
+💻 I'm also working on some mini projects using Flutter to showcase my skills and creativity. 🎨
+👀 I'm interested in exploring new technologies and solving real-world problems. 🧠
+📫 You can reach me at tejparmar100@gmail.com. 📧
+
 
 ## Languages, Frameworks & Tools
 
