@@ -1,0 +1,29 @@
+# Hi there, I'm  Tej Mehul Parmar👋
+
+<a href="https://www.linkedin.com/in/tej-parmar-a61742186/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tej-parmar-a61742186/" alt="LinkedIn"></a>
+<a href="mailto:<tejparmar100@gmail.com>"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejparmar100@gmail.com" alt="Gmail"></a>
+## I'm an App Developer and Machine Learning Enthusiast
+
+- 🔭 I’m currently working on some project
+- 🌱 I’m currently learning flutter and trying few mini projects 
+- 👯 I’m looking to collaborate on some idea
+- 🤔 I’m looking for help with some problem
+- 💬 Ask me about anything here
+
+## Languages, Frameworks & Tools
+
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
+<img align="left" alt="VS Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<br />
+
+## Statistics
+
+Tej's GitHub stats
+
+## Support
+
+Contributions, issues, and feature requests are most welcome! If you like what I do, give me some ⭐s and share with your friends! Made with ❤️ from India. Keep Coding!
