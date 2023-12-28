@@ -15,6 +15,9 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 <img align="left" alt="VS Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
